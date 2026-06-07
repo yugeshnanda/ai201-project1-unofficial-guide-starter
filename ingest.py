@@ -18,7 +18,7 @@ def _clean(text: str) -> str:
     return text.strip()
 
 
-def load_chunks():
+def get_chunks():
     chunks = []
     for path in sorted(DOCUMENTS_DIR.glob("*.txt")):
         raw = path.read_text(encoding="utf-8")
@@ -34,7 +34,7 @@ def load_chunks():
 
 
 if __name__ == "__main__":
-    chunks = load_chunks()
+    chunks = get_chunks()
     print(f"Total chunks: {len(chunks)}\n")
     for chunk in chunks[:5]:
         print(f"--- source={chunk['source']}  chunk_index={chunk['chunk_index']} ---")
