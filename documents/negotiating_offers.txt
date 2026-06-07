@@ -1,0 +1,49 @@
+Q: Can I negotiate internship offers? Is it weird to ask for more money as a student?
+
+A (top comment, 1.04k upvotes):
+Yes, you can negotiate internship offers. No, it is not weird. Yes, you should probably do it.
+
+**The truth about intern offer negotiation:**
+
+Companies expect some negotiation. Recruiters are not going to rescind your offer because you asked politely. The worst realistic outcome is they say "this is our best offer" and you accept or decline. That's it. The downside is basically zero.
+
+**What interns can typically negotiate:**
+- Base hourly rate or monthly stipend (most impactful)
+- Signing/start bonus
+- Housing stipend if not already included
+- Relocation assistance
+- Start date (often)
+- Remote vs. on-site arrangement
+
+Equity is almost never negotiable for an internship. Benefits packages usually aren't either.
+
+**How to actually do it:**
+
+Don't do it over email if you can help it. Call the recruiter.
+
+Script: "I'm really excited about this offer — [Company] is my top choice and I can genuinely see myself contributing there. I did want to ask if there's flexibility on the compensation. Based on my research and other offers I'm considering, I was hoping we could get closer to [specific number, 10-15% above their offer]. Is that something you can work with?"
+
+Key elements:
+1. Express genuine enthusiasm first
+2. Be specific about the number — "more money" gets you nothing
+3. Reference competing offers or market data if you have them
+4. Don't apologize for asking
+
+---
+
+A (second comment, 478 upvotes):
+Competing offers are your best leverage by far. If you have an offer from Company A at $45/hr and Company B offers you $40/hr, call Company B and say you have a competing offer at $45. They will often match or get close. This works more reliably than you'd expect.
+
+You don't have to reveal which company the competing offer is from, but be honest about the number — they may ask for verification.
+
+---
+
+A (third comment, 267 upvotes):
+Intern pay varies wildly by company tier. At FAANG/top companies: $50-80+/hr is common, plus housing and relocation. At a typical tech company: $30-50/hr. At a startup or non-tech company: $15-30/hr. Levels.fyi has intern compensation data you can use as a reference point before you ask.
+
+Don't anchor below market. A lot of students ask for "just a little more" when they're already being underpaid significantly. Know what the market pays before you pick your number.
+
+---
+
+A (fourth comment, 189 upvotes):
+Don't blow up a relationship over a small negotiation, and don't be a jerk about it. If the company genuinely can't move — often true at smaller companies with set intern pay bands — accept gracefully or decline if the compensation doesn't work for you. The recruiter and hiring manager will be your references later. Keep it professional.

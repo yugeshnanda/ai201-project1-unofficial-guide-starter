@@ -1,0 +1,33 @@
+Q: My GPA is a 3.1. Am I cooked for tech internships? Does GPA even matter?
+
+A (top comment, 934 upvotes):
+The honest answer: GPA matters at the screening stage and almost never after.
+
+Many large companies use 3.0 or 3.2 as a hard filter in their applicant tracking systems. Below that threshold, your resume may never be seen by a human. That's the real risk of a low GPA — not that engineers will judge you in interviews, but that your application gets auto-rejected before anyone reads it.
+
+**What you can do if your GPA is low:**
+
+1. **List only your major GPA if it's higher.** "Major GPA: 3.6" on your resume is completely legitimate and commonly done. Recruiters know the difference and rarely penalize it.
+
+2. **Use referrals to bypass the filter.** If someone at the company submits your resume internally, it often skips the ATS screen entirely. A 3.1 with an internal referral beats a 3.9 cold application at many companies.
+
+3. **Target companies that don't filter on GPA.** Startups almost never care. Many mid-size tech companies don't either. FAANG and finance/quant firms are where the GPA filter hits hardest.
+
+4. **Have projects and experience that speak louder.** A shipped side project or a prior internship at any company will get you more attention than half a GPA point.
+
+---
+
+A (second comment, 412 upvotes):
+I had a 3.15 and got offers from two top-10 tech companies. The path was: referral into one, and a strong project portfolio + great LeetCode performance into the other. Nobody asked about my GPA after the initial screen. It is a gatekeeper, not a verdict.
+
+What absolutely does not work: lying. Rounding a 2.8 to a 3.0 or omitting it and hoping they don't notice. Background checks catch this and it's an immediate rescind.
+
+---
+
+A (third comment, 187 upvotes):
+Context on why GPA matters to some companies: they use it as a proxy for work ethic and ability when they have nothing else to go on. Once you have internship experience, it drops way down on the priority list. So the GPA filter mostly hurts freshmen and sophomores — the people who need the most help getting a first break. It's a stupid system but it's the one we have.
+
+---
+
+A (fourth comment, 156 upvotes):
+If you're a freshman or sophomore with a low GPA: please fix it now. It is much easier to bring up a 3.1 to a 3.4 in your first two years than you think. Drop the course if you need to. Take it again. Get a tutor. The math on GPA recovery gets brutal in junior year when there aren't enough units left to move the needle.

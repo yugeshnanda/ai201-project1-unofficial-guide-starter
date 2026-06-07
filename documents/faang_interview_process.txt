@@ -1,0 +1,45 @@
+Q: What is the FAANG interview process actually like for interns? Walk me through it step by step.
+
+A (top comment, 1.3k upvotes):
+It varies by company but here's a realistic picture of each. "FAANG" is a bit dated — usually people mean Meta, Amazon, Apple, Netflix, Google, and Microsoft. I'll cover the big ones.
+
+**Google:**
+1. Online Assessment (not always — depends on school/sourcing)
+2. 1-2 phone screens: 45 min, one coding problem each, usually medium difficulty
+3. Final round: 2 virtual interviews back to back, one coding + one behavioral/Googleyness
+Coding is LeetCode medium/hard. They care a lot about communication — talk through your thinking even when you're stuck.
+
+**Meta:**
+1. Online coding screen: 2 problems, 70 min
+2. 2 technical interviews: coding + behavioral. Meta mixes them — same interview will have both.
+Meta is known for valuing speed. They want you to code fast, not just correctly. Practice typing and not second-guessing yourself.
+
+**Amazon:**
+1. Online Assessment: 2 coding problems + work simulation scenarios
+2. 1-2 virtual interviews: coding + Leadership Principles behavioral questions every single round
+Amazon's LP questions are not optional prep. Every interviewer asks them. Know the 16 LPs and have specific STAR stories mapped to each. "Customer Obsession" and "Deliver Results" come up constantly.
+
+**Microsoft:**
+1. Online Assessment (HackerRank): 2 problems
+2. 1-3 virtual interviews: mix of coding and behavioral
+Microsoft's bar is rigorous but their interviewers tend to be more collaborative. They'll often hint if you're going in the wrong direction. Communication matters here.
+
+**Apple:**
+1. Usually a recruiter call, then a technical phone screen
+2. Loop of 3-5 interviews covering coding, system concepts, and team-fit
+Apple's process varies more by team than other companies. No universal OA — it depends on your recruiter and role.
+
+---
+
+A (second comment, 512 upvotes):
+Timeline reality check: Google and Meta recruiting cycles for summer internships typically open in August-September and close by December. Amazon stays open longer but best teams fill early. Microsoft opens similarly. If you're applying in February for summer, you're late for FAANG. Set reminders for August of junior year.
+
+---
+
+A (third comment, 334 upvotes):
+On the "system design lite" question: Google sometimes asks a simplified design question even for interns — "design a URL shortener" or "how would you structure this data." You don't need full system design prep but knowing basic concepts (databases, caching, APIs, trade-offs) is useful. 30 minutes of reading on this is worth it.
+
+---
+
+A (fourth comment, 212 upvotes):
+These companies genuinely want to hire interns. The intern program pipeline is how they identify new grad talent. They're not trying to trick you — they want the process to work. Don't psych yourself out by treating it like an adversarial interrogation. It's a conversation. Ask clarifying questions. Think out loud. It's okay to say "I'm not sure, let me think through this."

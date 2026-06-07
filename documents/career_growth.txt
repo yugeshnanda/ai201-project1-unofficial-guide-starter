@@ -1,0 +1,40 @@
+Q: How do I actually grow my career during and after internships? What separates the interns who get return offers from those who don't?
+
+A (top comment, 987 upvotes):
+The interns who get return offers are not always the most technically brilliant. They're the ones who were easy to work with, communicated well, and made their manager's life easier. Here's what that looks like in practice:
+
+**During the internship:**
+
+1. **Communicate blockers early.** Nothing is more frustrating to a manager than an intern who spends three days stuck and says nothing. If you're blocked for more than a few hours, flag it. "Hey, I've been stuck on X for a bit — I tried A and B, but I'm wondering if you have thoughts" is perfect. It shows initiative and self-awareness.
+
+2. **Deliver something shippable.** Intern projects are often scoped to be completable in 10-12 weeks. Make sure yours is. A half-finished "ambitious" project is worse than a complete "modest" one. Scope down if needed, but finish and ship.
+
+3. **Meet people.** Have lunch with your team. Schedule coffee chats with engineers outside your immediate group. This isn't fake networking — these are the people who write your return offer feedback. They need to know you exist.
+
+4. **Ask smart questions.** There's a specific kind of intern who asks great questions — not "how do I do X" (Google that first) but "why did you choose this architecture over Y?" or "what's the tradeoff here?" Those questions signal that you're thinking at the right level.
+
+---
+
+A (second comment, 445 upvotes):
+On return offers specifically: most large companies do a mid-internship and end-of-internship review. Find out early what success looks like for your specific project. Ask your manager: "What would a great outcome for this project look like?" Then build everything toward that. Don't discover at week 8 that you were building the wrong thing.
+
+---
+
+A (third comment, 278 upvotes):
+Long-term career growth framework that I wish someone told me freshman year:
+
+Year 1-2: Get any internship. The first foot-in-the-door.
+Year 2-3: Level up to a better company or role using the first internship.
+Year 3+: Target your dream companies with real experience on your resume.
+
+The trajectory compounds. A mediocre first internship leads to a better second one leads to a great full-time offer. Nobody skips this ladder except the people who got extremely lucky. Be patient and keep leveling up.
+
+---
+
+A (fourth comment, 198 upvotes):
+Soft skill that nobody teaches: managing up. Your manager is not going to proactively check in with you every day. You need to keep them informed. A weekly Friday message: "This week I finished X, ran into Y issue and resolved it by doing Z, next week I'm planning to work on A" takes 5 minutes and makes you look 10x more professional than peers who stay quiet. Most interns do not do this. It is a massive differentiator.
+
+---
+
+A (fifth comment, 143 upvotes):
+Your intern cohort is your peer network for the next 20 years. The other interns you'll meet are going to become senior engineers, founders, and hiring managers. Be genuinely kind and helpful to them now. Refer people in your cohort when they're job searching later. This stuff comes back around in ways you can't predict.

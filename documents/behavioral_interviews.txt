@@ -1,0 +1,41 @@
+Q: How do I actually prepare for behavioral interviews? I always blank or ramble when they ask "tell me about a time when..."
+
+A (top comment, 876 upvotes):
+Behavioral interviews feel soft until you bomb one and lose an offer you thought you had. Treat them as seriously as the technical rounds.
+
+**The STAR method — but done correctly:**
+
+Most people know STAR (Situation, Task, Action, Result) but mess up the ratio. Your answer should be roughly:
+- Situation + Task: 20% (set the scene fast, nobody needs the full backstory)
+- Action: 60% (this is what they're actually evaluating — what YOU did, specifically)
+- Result: 20% (quantify if possible, even roughly)
+
+The most common mistake is spending 3 minutes on context and 30 seconds on what you actually did.
+
+**Build a story bank before any interview.** Write out 8-10 stories from your life — class projects, jobs, clubs, anything. Each story should be flexible enough to answer multiple question types. You need stories for:
+- A challenge you overcame
+- A conflict with a teammate
+- A time you failed or made a mistake
+- A time you led something
+- A time you had to learn something quickly
+- A time you went above and beyond
+- A time you disagreed with someone and what happened
+
+**Amazon's Leadership Principles** deserve special attention if you're interviewing there. They will ask one LP question per interviewer and they grade you against the principle explicitly. Know all 16, pick 2-3 that resonate, and have strong stories ready for each.
+
+---
+
+A (second comment, 441 upvotes):
+Record yourself answering questions out loud. I don't care how cringe it feels. When I first did this I realized I was saying "um" every 8 seconds and my "brief" answers were 6 minutes long. Watching yourself once is worth 10 practice sessions in your head.
+
+Practice questions to cover: "Tell me about yourself," "Why this company," "Biggest weakness," "Where do you see yourself in 5 years," "Describe a project you're proud of." These are near-universal and you should be able to answer them in your sleep.
+
+---
+
+A (third comment, 298 upvotes):
+The "why this company" question is where most candidates fumble because they give generic answers. Research the company specifically: a recent product launch, a technology decision they made, a value they publicly stand for. "I'm excited about your work on X because I've dealt with that problem firsthand and think your approach is interesting because of Y" is 10x better than "I love the collaborative culture and growth opportunities."
+
+---
+
+A (fourth comment, 167 upvotes):
+Internship behavioral questions are lower stakes than new-grad or full-time ones. They don't expect you to have managed teams. Class projects, clubs, part-time jobs, even volunteer work all count. If you've never had a conflict with a teammate "professionally," think about a group project — same dynamics, valid answer.

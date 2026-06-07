@@ -1,0 +1,42 @@
+Q: How much LeetCode do I actually need to do? I've been grinding for months and still feel unprepared.
+
+A (top comment, 1.2k upvotes):
+The dirty secret is that most people are doing LeetCode wrong. They grind 400 problems and still blank in interviews because they never actually learned the patterns — they just memorized solutions.
+
+**Do fewer problems, understand them deeper.**
+
+Here's the approach that clicked for me:
+
+1. Do a problem. If you can't solve it in 25 minutes, look at the solution.
+2. Understand the solution completely — not just what it does, but WHY this data structure or algorithm was the right call.
+3. Close the tab. Wait a day. Do the problem again from scratch.
+4. If you can do it clean, you actually know it. Move on.
+
+**The patterns that cover 80% of interviews:**
+- Two pointers
+- Sliding window
+- BFS/DFS on trees and graphs
+- Dynamic programming (knapsack, subsequences, intervals)
+- Binary search (not just sorted arrays — on the answer space too)
+- Monotonic stack
+- Heap/priority queue
+- Backtracking
+
+Learn these patterns until you can recognize them from the problem description before you start coding.
+
+**On "how many problems":** 150-200 done correctly beats 500 done by reading solutions and moving on. The NeetCode 150 list is genuinely good. Do that before you do anything else.
+
+---
+
+A (second comment, 567 upvotes):
+Company-specific prep is underrated. LeetCode has a "company" filter that shows questions asked at specific companies in the last 6 months. In the two weeks before your Amazon interview, do the 30 most-asked Amazon problems. You will see repeats. This is not cheating — it's just smart prep.
+
+---
+
+A (third comment, 289 upvotes):
+Time yourself. Always. I used to do problems with no pressure and feel great. Then I'd go into an interview with someone watching me and completely freeze. Simulate the actual conditions: 45 minutes, screen share with a friend, explain out loud while you type. The verbal explanation is a separate skill from the coding and you need to practice both.
+
+---
+
+A (fourth comment, 201 upvotes):
+Hot take: stop doing Hard problems until you can consistently solve Mediums in under 20 minutes. Hards in interviews are rare. Fumbling an Easy or Medium because you rushed past fundamentals is how most people actually fail. Nail the Mediums first.

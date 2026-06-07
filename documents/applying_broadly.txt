@@ -1,0 +1,44 @@
+Q: How many companies should I apply to? I feel like I'm spamming and it's not working.
+
+A (top comment, 912 upvotes):
+There's a big difference between applying broadly and applying randomly. Most students who complain that mass applying doesn't work are applying randomly — sending the same generic resume to 200 companies with no thought.
+
+**The actual numbers:**
+
+For a typical student in a normal job market: apply to 50-100 companies across a range of tiers. Expect a 5-15% response rate to get to a screen. Expect a 20-40% success rate from screen to offer. Do the math — you need volume.
+
+For a strong candidate with good experience: 30-50 companies, more targeted.
+
+For a weak market or low experience: 100+ companies, heavy on non-FAANG and non-household names.
+
+**The tier system that works:**
+
+Tier 1 (Reach, ~20% of applications): Places you'd be thrilled to get — FAANG, top quant firms, top unicorns. Apply but don't count on them.
+
+Tier 2 (Target, ~50% of applications): Solid tech companies, growth-stage startups with funding, established mid-size companies in your city. You have a real shot here.
+
+Tier 3 (Safety, ~30% of applications): Local companies, non-tech industries that have dev roles (banking, healthcare, retail all have engineering teams), companies you've never heard of. You should get offers from here if you're doing things right.
+
+---
+
+A (second comment, 398 upvotes):
+Specific places to find opportunities beyond LinkedIn and Indeed:
+
+- **Handshake** for companies specifically targeting students
+- **Y Combinator job board** for YC startups (often small teams hungry for help)
+- **AngelList/Wellfound** for early-stage startups
+- **Your university's job portal** — seriously, employers post here specifically because they want your school's students
+- **LinkedIn, but search for "intern" AND filter to "Easy Apply"** — high volume, fast
+- **Company career pages directly** — some companies don't post on aggregators
+
+---
+
+A (third comment, 276 upvotes):
+Track everything. Use a spreadsheet with: company name, role, date applied, status, next step, deadline. When you have 80+ applications in flight you will forget where you are with half of them. Missing a deadline or forgetting to follow up on a response is completely avoidable and completely common.
+
+Column headers I use: Company | Role | Applied | Status | Last Contact | Next Step | Notes
+
+---
+
+A (fourth comment, 201 upvotes):
+Don't stop applying after you get a first interview. Keep the pipeline full until you have a signed offer in hand. Interviews fall through. Offers get rescinded. Companies ghost. A pipeline with 3 companies in the interview stage feels safe until all 3 reject you in the same week. Keep applying the whole time.

@@ -1,0 +1,37 @@
+Q: What should my CS resume actually look like? And what kind of projects impress recruiters?
+
+A (top comment, 1.1k upvotes):
+Resume first, then projects — they're linked but separate problems.
+
+**Resume basics that most students get wrong:**
+
+- **One page. No exceptions until you have 10+ years of experience.** Recruiters spend 6-10 seconds on an initial scan. A second page doesn't get read.
+- **Use the XYZ format for bullets:** "Accomplished X by doing Y, resulting in Z." Example: "Reduced API response time by 40% by implementing Redis caching, improving user-facing load times from 800ms to 480ms."
+- **No objectives section.** No "References available upon request." No headshot. No colors that require a printer to not hate you. Use a clean single-column template — Jake's Resume on Overleaf is the standard.
+- **Tailor for ATS.** Pull keywords from the job description and use them naturally in your bullets. If the JD says "REST APIs" and your resume says "web services," the filter may miss you.
+
+**What makes a project actually impressive:**
+
+The bar is lower than you think and also higher than you think. Lower because you don't need to build the next Airbnb. Higher because "built a to-do app in React" will not move anyone.
+
+What separates a memorable project from a forgettable one:
+1. **Scale or real users.** Even 50 real users of a thing you built is meaningful. Build something your friends actually use.
+2. **Technical depth in one area.** A simple app that handles auth, rate limiting, and is properly deployed beats a complex app that's just a local demo.
+3. **Quantified results.** "Processes 5,000+ records per hour" sounds much better than "processes records quickly."
+4. **Deployed and accessible.** Put a link on your resume. If the recruiter can't click and see it running, it carries a third of the weight.
+
+---
+
+A (second comment, 489 upvotes):
+Specific project ideas that have gotten students I know into top companies:
+- A real-time dashboard that does something (stock prices, weather, live sports scores) — shows APIs, websockets, and deployment
+- A browser extension with 100+ users on the Chrome store — shows you can ship and market something
+- A machine learning model deployed as a web app — not just a notebook, actually callable
+- A CLI tool that solves a real annoyance you had — small scope, real utility, clean code
+
+None of these are revolutionary. All of them are concrete and demonstrable.
+
+---
+
+A (third comment, 234 upvotes):
+The GitHub profile matters more than people admit. Keep your commit history green. Make your README files actually explain what the project does and how to run it. Pin your 6 best repositories. Recruiters and engineers do look at this, especially at smaller companies.

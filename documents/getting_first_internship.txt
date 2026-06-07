@@ -1,0 +1,29 @@
+Q: I'm a freshman/sophomore with no experience. How do I even get my first internship?
+
+A (top comment, 847 upvotes):
+Nobody is coming to rescue you — you have to be proactive, and the sooner you accept that, the better.
+
+Here's what actually worked for me and people I've seen succeed:
+
+**Start with companies you've never heard of.** Everyone applies to Google. Almost nobody applies to a 50-person fintech startup in their city. That startup is desperate for help and will take a bet on you. Your first internship is about getting experience on paper, not impressing people at dinner parties.
+
+**Use your school's career center more than you think you should.** I know it feels lame, but they have relationships with employers who specifically want students from your university. That warm intro is worth more than cold applying to 200 companies on LinkedIn.
+
+**Personal network is real, even if yours is small.** Tell every family friend, neighbor, and LinkedIn connection you have that you're looking. Most people genuinely want to help if you make it easy. Send a specific ask: "I'm a CS sophomore looking for a summer internship. Do you know anyone at a tech company I could talk to?" Not: "Hey let me know if you hear anything."
+
+**The resume problem is a catch-22, but there are exits:**
+- Class projects count if you describe them with impact. "Built a web scraper that collected 10,000+ data points for a class project" is a real bullet.
+- Contribute to open source. Even small bug fixes show you can navigate a real codebase.
+- Build something. Anything. A Discord bot, a budget tracker, a random movie picker. Ship it. Put it on GitHub.
+
+**Timing matters more than most people say.** Applications for summer internships open in August-October for the following summer. If you start applying in March, you've already missed 80% of the opportunities.
+
+---
+
+A (second comment, 312 upvotes):
+One thing nobody told me: apply to research programs at your own university. NSF REUs, your school's internal research fellowships, professor labs. These are internships in all but name, they pay, and they look great on a resume. Professors especially are often happy to bring on undergrads who just email and ask directly.
+
+---
+
+A (third comment, 198 upvotes):
+Lower your standards on purpose for round one. I turned down a $12/hr internship at a local company my sophomore year because it wasn't "prestigious enough." Then I got nothing and sat at home all summer. Junior year I took whatever I could get and had a job offer from a FAANG company before I graduated. First internship = foot in door, not destination.

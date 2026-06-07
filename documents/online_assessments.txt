@@ -1,0 +1,37 @@
+Q: Tips for passing online assessments (OAs)? I keep getting filtered out before I even talk to a human.
+
+A (top comment, 789 upvotes):
+OAs are the first real filter and most students underestimate them. Here's what you need to know:
+
+**The OA landscape:**
+
+Most large companies use one of: HackerRank, CodeSignal, Codility, or their own platform. The format is usually 2-3 coding problems in 60-90 minutes. Some companies (Google, Citadel) use a standardized "GCA" (General Coding Assessment) that has a score threshold you need to hit.
+
+**What OAs actually test vs. what people think:**
+
+They test: pattern recognition speed, edge case handling, and writing clean-ish code fast. They do NOT test: whether you can think through a novel hard problem (there's no time for that). This means your pattern library needs to be pre-loaded before you sit down.
+
+**Practical tips that matter:**
+
+1. **Read all problems first.** A 3-problem OA might have one easy, one medium, one hard. Start with the easy, finish it, then the medium. Don't spend 45 minutes stuck on the hard and never get to the easy — that's an automatic fail.
+
+2. **Partial credit is real.** Most platforms score on test cases passed. A brute-force O(n²) solution that passes 8/10 test cases is worth more than an elegant solution that crashes. Get something working first, then optimize if time allows.
+
+3. **Edge cases to always check:** empty input, single element, all duplicates, negative numbers, integer overflow, and very large inputs (check for TLE).
+
+4. **Practice on the actual platform.** CodeSignal, HackerRank, and Codility each have quirks — submission model, language support, available libraries. Do at least one timed practice session on the exact platform before the real thing.
+
+---
+
+A (second comment, 356 upvotes):
+The CodeSignal GCA specifically: it's adaptive and scores you on a 600-850 scale. Most companies want 700+, some want 750+. The test includes 4 problems of increasing difficulty. Problem 4 is hard and most candidates don't finish it — that's expected. Focus on solving 1-3 fast and cleanly, then make a real attempt at 4. There are publicly available practice tests online that mimic the format well.
+
+---
+
+A (third comment, 244 upvotes):
+Don't cheat on OAs. I know people do it, but the risks are real: companies compare solutions across candidates algorithmically, some do a "verify" interview after where they ask you to explain your OA code, and getting caught is a permanent ban from applying plus potentially flagged across the industry. The upside is getting an interview you're not ready for. Just not worth it.
+
+---
+
+A (fourth comment, 178 upvotes):
+Use your editor. Most platforms let you copy code between your IDE and the submission box. Write your solution locally where you have autocomplete and syntax highlighting, test it mentally, then paste. You'll code faster and make fewer typos.
